@@ -5,7 +5,7 @@ using System.IO;
 
 using Tyuiu.BotanogovDS.Sprint5.Task1.V20.Lib;
 
-namespace Tyuiu.BotanogovDS.Sprint5.Task1.V20.Test
+namespace Tyuiu.BotanogovDS.Sprint5.Task1.V20.Test 
 {
     [TestClass]
     public class DataServiceTest
