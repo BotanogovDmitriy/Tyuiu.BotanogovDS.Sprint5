@@ -13,7 +13,7 @@ namespace Tyuiu.BotanogovDS.Sprint5.Task0.V25.Test
         [TestMethod]
         public void TestMethod1()
         {
-            string path = @"C:\Users\wackko\source\repos\Tyuiu.GunbinNA.Sprint5\Tyuiu.GunbinNA.Sprint5.Task0.V25\bin\Debug\OutPutFileTask0.txt";
+            string path = @"D:\source\repos\Tyuiu.BotanogovDS.Sprint5\Tyuiu.BotanogovDS.Sprint5.Task0.V25\bin\Debug\OutPutFileTask0.txt";
             FileInfo fi = new FileInfo(path);
             bool fileex = fi.Exists;
             bool wait = true;
